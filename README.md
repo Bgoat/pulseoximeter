@@ -1,4 +1,4 @@
 pulseoximeter
 =============
 
-Code, and schemaatics for a pulse oximeter with Arduino and Processing
+Code, and schematics for a pulse oximeter with Arduino and Processing
